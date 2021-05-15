@@ -1,7 +1,7 @@
 # Propagation Project - LELEC2910
 
 
-This project deals with the impact of the troposphere on transmittedf signal with LEO satellites. 
+Simulations of the impact of the troposphere on communications with LEO satellites. 
 More precisely, it aims to determine the effect of the troposhere on wireless transmissions with LEO satellites at 77 GHz and then to compute a link budget of the transmission.
 All of this in order to know the needed power on board of the satellite for transmission.
 
