@@ -11,7 +11,7 @@ The course was given to master students in electrical engineering at Ecole Polyt
 
 This repo showcases the work of Louis Delait - ELEC2M 
 
-I invite you to read the report before taking a look at the simulation code, this is just there to show how I threated data.
+I invite you to read the report before taking a look at the simulation code, this is just there to show how I processed data.
 
 Happy reading :) 
 
