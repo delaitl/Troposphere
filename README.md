@@ -6,7 +6,7 @@ More precisely, it aims to determine the effect of the troposhere on wireless tr
 All of this in order to know the needed power on board of the satellite for transmission.
 
 
-This git repository contains all the code and the report of the project of propagation in LELEC2910. 
+This git repository contains all the code and the report of the project of propagation in LELEC2910. The Data used in the python code are to be unzipped to be able to get the results.
 The course was given to master students in electrical engineering at Ecole Polytechnique de Louvain (Belgium).
 
 This repo showcases the work of Louis Delait - ELEC2M 
